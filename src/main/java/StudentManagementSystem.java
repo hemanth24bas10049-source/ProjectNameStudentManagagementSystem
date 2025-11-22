@@ -2,11 +2,9 @@ package org.yourcompany.yourprojectshemanth;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
 public class StudentManagementSystem {
     private List<Person> people = new ArrayList<>();
     private Scanner scanner = new Scanner(System.in);
-
     public void run() {
         int choice;
         do {
