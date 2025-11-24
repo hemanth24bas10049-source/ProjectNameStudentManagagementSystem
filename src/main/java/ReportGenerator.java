@@ -8,7 +8,7 @@ class ReportGenerator extends Thread {
         System.out.println("Generating report...");
         for (Person p : people) {
             p.displayInfo();
-        }
+        } 
         System.out.println("Report completed.");
     }
 }
