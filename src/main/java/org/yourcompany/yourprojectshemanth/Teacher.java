@@ -1,4 +1,4 @@
-package org.yourcompany.yourprojectshemanth;
+package org.yourcompany.yourprojectshemanth; 
 
 class Teacher extends Person {
     private String subject;
