@@ -1,6 +1,6 @@
 package org.yourcompany.yourprojectshemanth;
 
-abstract class Person {
+abstract class Person { 
     private int id;
     private String name;
     public Person(int id, String name) {
